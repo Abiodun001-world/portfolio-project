@@ -266,7 +266,7 @@ nav ul li {
   width: 100%;
   padding: 10px;
   margin: 10px 0;
-  background-color: #fff;
+  background-color: black;
   border: 2px solid var(--primary-color);
   border-radius: 5px;
   font-size: 1rem;
@@ -429,4 +429,8 @@ footer {
   .contact-form-container {
     max-width: 17.75rem;
   }
+}
+
+input[type="submit" ] {
+  color: white;
 }
