@@ -2,6 +2,7 @@
 const burger = document.querySelector("#burger-menu");
 const ul = document.querySelector("nav ul");
 const nav = document.querySelector("nav");
+const abiodunAdekunleHeading = document.querySelector("h1");
 
 // Scroll to top selection
 const scrollUp = document.querySelector("#scroll-up");
@@ -28,4 +29,9 @@ scrollUp.addEventListener("click", () => {
     left: 0,
     behavior: "smooth",
   });
+});
+
+// Redirect to homepage when the <h1> element is clicked
+abiodunAdekunleHeading.addEventListener("click", () => {
+  window.location.href = "/"; // Replaced "/" with the actual path to the homepage
 });

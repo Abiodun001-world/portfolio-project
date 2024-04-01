@@ -30,6 +30,11 @@ html {
   /* border: 2px solid red; */
 }
 
+* {
+  scrollbar-color: #8e8e8e #fff;
+  scrollbar-width: thin;
+}
+
 ul {
   list-style-type: none;
 }
@@ -70,6 +75,7 @@ nav {
 
 nav h1 {
   color: var(--primary-color);
+  cursor: pointer;
 }
 
 nav a {
