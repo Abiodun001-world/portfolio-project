@@ -44,6 +44,7 @@ a {
   color: var(--primary-color);
 }
 
+
 a:hover {
   color: var(--secondary-color);
 }
@@ -440,3 +441,25 @@ footer {
 input[type="submit" ] {
   color: white;
 }
+
+ .source-code {
+  display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin: 10px;
+}
+
+.check-it-out {
+  display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+
+ 
