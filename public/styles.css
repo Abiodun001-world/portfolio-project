@@ -31,7 +31,7 @@ html {
 }
 
 * {
-  scrollbar-color: #8e8e8e #fff;
+  scrollbar-color: var(--primary-color) var(--bg-color);
   scrollbar-width: thin;
 }
 
@@ -41,12 +41,16 @@ ul {
 
 a {
   text-decoration: none;
-  color: var(--primary-color);
+  color: var(--bg-color);
 }
 
-
-a:hover {
+a:hover{
   color: var(--secondary-color);
+}
+
+.dev{
+  text-decoration: underline;
+  color: var(--primary-color);
 }
 
 body {
@@ -157,8 +161,11 @@ nav ul li {
 /* More about ends */
 .nav-linked {
   text-decoration: underline;
+  color: var(--primary-color);
 }
-
+.nav-linked:hover {
+  color: var(--secondary-color);
+}
 /* Skills section */
 .skills {
   max-width: 68.75rem;
@@ -273,7 +280,7 @@ nav ul li {
   width: 100%;
   padding: 10px;
   margin: 10px 0;
-  background-color: black;
+  background-color: var(--primary-color);
   border: 2px solid var(--primary-color);
   border-radius: 5px;
   font-size: 1rem;
@@ -293,7 +300,7 @@ nav ul li {
   display: flex;
   flex-direction: column-reverse;
   position: fixed;
-  right: 1%;
+  left: 1%;
   bottom: 60%;
 }
 
@@ -328,7 +335,7 @@ footer {
 
 /* General (utilities) */
 .icon-card {
-  background-color: #fff;
+  background-color: var(--bg-color);
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--secondary-shadow);
   padding: 20px;
@@ -336,7 +343,7 @@ footer {
 }
 
 .project-card {
-  background-color: #fff;
+  background-color: var(--bg-color);
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
@@ -439,27 +446,25 @@ footer {
 }
 
 input[type="submit" ] {
-  color: white;
+  color: var(--bg-color);
 }
 
- .source-code {
+ .code {
   display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
     text-decoration: none;
     border-radius: 5px;
     margin-bottom: 0px;
     margin: 10px;
 }
 
-.check-it-out {
-  display: inline-block;
+.live {
+    display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: var(--primary-color);
     text-decoration: none;
     border-radius: 5px;
     margin-bottom: 0px;
 }
-
- 
