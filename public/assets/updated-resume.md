@@ -12,17 +12,9 @@ June 2023 - August 2023
 - Authored [10 technical](https://iq.opengenus.org/author/abiodun/) articles on backend development and AI
 - Built an interactive webpage with coding exercises using HTML, CSS, and JavaScript
 - Gained exposure to real-world software development practices
+for consistency across environments
 
-**Back-End Engineer Intern**  
-_ALX Africa School of Software Engineering, Remote (Kenya)_  
-September 2022 - October 2023
-- Completed a 12-month full-stack web development program
-- Specialized in backend development, mastering C, Python, and JavaScript
-- Led team to create a simple shell in C programming language
-- Designed RESTful APIs using Flask and Express
-- Implemented CI/CD processes and utilized Docker for consistency across environments
-
-**Back-End Engineer Intern (Database Administrator)**  
+**Back-End Engineer Freelancer (Database Administrator)**  
 _Zahara Health, Remote (Abuja)_  
 September 2024 - November 2024
 - Designed scalable and efficient database schema to meet application needs
@@ -36,7 +28,7 @@ September 2024 - October 2024
 - Collaborated with front-end developers to integrate user-facing components
 - Wrote clean, maintainable, and scalable code for back-end systems
 - Troubleshot and debugged applications to ensure optimal performance
-- Developed features such as user sign-up, article submission workflows, team dashboards, and peer review system
+- Developed features such as article submission workflows, comment workflows, and profile pictures
 
 ## Education
 
