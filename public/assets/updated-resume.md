@@ -2,6 +2,7 @@
 Back-End Engineer
 
 Ibadan City, Oyo State Nigeria • adekunleabiodun354@gmail.com • +2349015785424 • [GitHub](https://github.com/Abiodun001-world)
+[LinkedIn](https://linkedin.com/in/abiodunadekunle)
 
 ## Experience
 
@@ -12,7 +13,6 @@ June 2023 - August 2023
 - Authored [10 technical](https://iq.opengenus.org/author/abiodun/) articles on backend development and AI
 - Built an interactive webpage with coding exercises using HTML, CSS, and JavaScript
 - Gained exposure to real-world software development practices
-for consistency across environments
 
 **Back-End Engineer Freelancer (Database Administrator)**  
 _Zahara Health, Remote (Abuja)_  
@@ -45,8 +45,8 @@ Present
 - ALX Software Engineering Final Web Stack Portfolio Project
 
 ## Technical Skills
-- Languages: HTML, CSS, JavaScript, TypeScript, Go, Python
-- Frameworks: React.js, Node.js, Next.js, Flask, Django, Express
-- Databases: SQL, NoSQL
-- Tools: Git, GitHub, Docker, CI/CD, DevOps
-- Other: RESTful and GraphQL APIs
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Go, Python
+- **Frameworks**: React.js, Node.js, Next.js, Flask, Django, Express
+- **Databases**: SQL, NoSQL
+- **Tools**: Git, GitHub, Docker, CI/CD, DevOps
+- **Other**: RESTful and GraphQL APIs
