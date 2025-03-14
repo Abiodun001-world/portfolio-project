@@ -20,9 +20,9 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });*/
 
-const express = require("express");
-const path = require("path");
-const cors = require("cors");
+const express = require("express")
+const path = require("path")
+const cors = require("cors")
 
 const app = express();
 
