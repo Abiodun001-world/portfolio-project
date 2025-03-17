@@ -30,7 +30,7 @@ export default function HomePage() {
       <section className="section">
         <h3>Languages</h3>
         <p>
-          HTML, CSS, Go, Python, JavaScript, TypeScript, Java, C++, C, C#, SQL, MQL
+          HTML, CSS, JavaScript,TypeScript, Go, Python, Java, C++, C, C#, SQL, MQL
         </p>
 
         <h3>Frameworks</h3>
