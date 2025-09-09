@@ -4,8 +4,26 @@ import {
   FaTwitter,
   FaLinkedin,
   FaEnvelope,
-  FaBlog
+  FaBlog,
+  FaHtml5,
+  FaCss3Alt,
+  FaPython,
+  FaJava,
+  FaJs,
+  FaCuttlefish,
+  FaDatabase,
 } from "react-icons/fa";
+import {
+  SiGo,
+  SiTypescript,
+  SiGraphql,
+  SiRedux,
+  SiJest,
+  SiNextdotjs,
+  SiDjango,
+  SiFlask,
+} from "react-icons/si";
+import { DiReact, DiNodejs } from "react-icons/di";
 import { MdArticle } from "react-icons/md";
 import Projects from "../components/Projects";
 
@@ -30,13 +48,24 @@ export default function HomePage() {
       <section className="section">
         <h3>Languages</h3>
         <p>
-          HTML, CSS, Go, Python, JavaScript, TypeScript, Java, C++, C, C#, SQL, MQL
+          <FaHtml5 title="HTML" /> HTML, <FaCss3Alt title="CSS" /> CSS,{" "}
+          <SiGo title="Go" /> Go,
+          <FaPython title="Python" /> Python, <FaJs title="JavaScript" />{" "}
+          JavaScript,
+          <SiTypescript title="TypeScript" /> TypeScript,{" "}
+          <FaJava title="Java" /> Java,
+          <FaCuttlefish title="C++" /> C++, C#, <FaDatabase title="SQL" /> SQL,{" "}
         </p>
 
         <h3>Frameworks</h3>
         <p>
-          React, Express, Flask, Django, GraphQL & Apollo, Next.js, Bootstrap, Tailwindcss, Redux, Jest,
-          supertest
+          <DiReact title="React" /> React, <DiNodejs title="Express" /> Express,{" "}
+          <SiFlask title="Flask" /> Flask,
+          <SiDjango title="Django" /> Django,
+          <SiGraphql title="GraphQL & Apollo" /> GraphQL & Apollo,
+          <SiNextdotjs title="Next.js" /> Next.js, <SiRedux title="Redux" />{" "}
+          Redux,
+          <SiJest title="Jest" /> Jest, <SiJest title="Supertest" /> Supertest
         </p>
       </section>
 
