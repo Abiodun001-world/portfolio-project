@@ -105,11 +105,11 @@ export default function HomePage() {
           <a href="https://github.com/Abiodun001-world">
             <FaGithub />
           </a>
-          <a href="https://twitter.com/abiodun0019">
+          <a href="https://twitter.com/Abiodun335">
             <FaTwitter />
           </a>
         </div>
-        <p>© 2025 Abiodun Adekunle. All rights reserved.</p>
+        <p>© 2026 Abiodun Adekunle. All rights reserved.</p>
       </footer>
     </div>
   );

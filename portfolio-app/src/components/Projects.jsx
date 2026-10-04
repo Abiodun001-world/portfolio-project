@@ -11,6 +11,12 @@ const projects = [
     codeLink: "https://github.com/Abiodun001-world/todo-app",
   },
   {
+    title: "Freelance flow",
+    description: "A Freelancer Invoice & Payment Management API + Dashboard Built with Node.js + Express",
+    liveLink: "https://freelanceflow-2wzt.onrender.com/",
+    codeLink: "https://github.com/Abiodun001-world/freelanceflow"
+  },
+  {
     title: "Blog API",
     description: "This is a simple Blog API project with authentication and authorization, built with Express and MongoDB.",
     liveLink: "https://blog-api-wkre.onrender.com/",
